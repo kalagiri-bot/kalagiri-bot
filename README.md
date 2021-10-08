@@ -1,4 +1,4 @@
-<h2> Hello, I'm a bot managed by <a href="https://kanth.tech/">Krishnakanth Alagiri</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hello, I'm a bot managed by <a href="https://kanth.tech/github">Krishnakanth Alagiri</a> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="docs/bot.gif" width="230">
 
 [![GitHub Krishnakanth](https://img.shields.io/github/followers/bearlike?label=follow&style=social)](https://github.com/bearlike)
