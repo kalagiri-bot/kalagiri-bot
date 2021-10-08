@@ -6,21 +6,17 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-```php
-<?php
-namespace krishnakanth_bot;
-class About extends Bot
+```json
 {
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'owner' => [
-                'name' => 'Krishnakanth Alagiri',
-                'githubProfile' => 'bearlike',
-                'url' => 'https://thekrishna.in/'
-            ]
-        ];
-    }
+   "About": [
+      {
+         "name": "Krishnakanth Alagiri",
+         "description": "This is a bot managed by Krishnakanth",
+         "owner_profile": "bearlike",
+         "url": "https://thekrishna.in/"
+      }
+   ]
 }
 ```
+
 ### <img src="docs/rick.gif">
