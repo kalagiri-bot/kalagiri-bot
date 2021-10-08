@@ -23,5 +23,4 @@ class About extends Bot
     }
 }
 ```
-
----
+### <img src="docs/rick.gif">
